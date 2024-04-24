@@ -1,0 +1,4 @@
+{
+  "max_chunk_length": 1000,
+  "suggest_summary_length": 500
+}
